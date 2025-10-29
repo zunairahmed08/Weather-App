@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  Weather App (Python + Tkinter)
 
 This project is a simple and user-friendly Weather App built with **Python**, Tkinter, and the OpenWeather API.  
@@ -31,3 +32,7 @@ run the app
 python weather_app.py
 
 
+=======
+# Weather-App
+(Python + Tkinter)
+>>>>>>> 2fc5a5c64654294e36bd8886643f92b9726c6c59
